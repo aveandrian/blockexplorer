@@ -1,0 +1,25 @@
+
+.row {
+  padding: 5px;
+}
+
+.column {
+  padding: 5px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.leftTable {
+  float: left
+}
+
+.rightTable {
+  float: right
+}
+
+.centerTable {
+  float:left
+}
